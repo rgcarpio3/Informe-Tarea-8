@@ -800,3 +800,6 @@ Es retrasado 90 grados con respecto a la frecuencia de salida
 
 ## 6) Bibliografía
 
+• Floyd, T. (2007).  Circuitos RC. En LM Cruz Castillo (Ed.), Principios de Circuitos Eléctricos (VIII ed., pp. 600 - 676). Pearson Educación.
+
+• Floyd, T. (2007). CIRCUITOS RL. En LM Cruz Castillo (Ed.), Principios de Circuitos Eléctricos (VII ed., pp. 677 - 727). Pearson Educación.
