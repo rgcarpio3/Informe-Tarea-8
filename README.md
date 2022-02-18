@@ -636,6 +636,81 @@ Z = (1480)(248.68)/(√(1480)^2 + (248.68)^2) < -tan^-1 (1480/248.68)
 Z = 245 Ω 
 245 Ω, -80.5°
 
+43. Para el circuito de la figura 15-95, encuentre todas las corrientes y los voltajes en forma polar.
+
+“FIGURA 1 Y 2”
+
+45. Para el circuito de la figura 15-97, determine lo siguiente:
+(a) Z (b) (c) (d) I (e) u
+
+*47. Cambie el circuito de la figura 15-98 a una forma equivalente dispuesta en serie.
+
+“FIGURA 3 Y 4”
+
+49. Determine los voltajes en forma polar a través de cada elemento de la figura 15-100. Trace el diagrama
+fasorial de voltaje.
+
+“FIGURA 5, 6 Y 7”
+
+51. Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. Exprese las corrientes
+en forma polar. Trace el diagrama fasorial de corriente.
+
+“FIGURA 8, 9 Y 10”
+
+*53. Determine el valor de C2 en la figura 15-102 cuando VA = VB.
+
+“FIGURA 11 Y 12”
+
+*55. Encuentre la corriente a través de cada componente en la figura 15-103.
+
+“FIGURA 13, 14 Y 15”
+
+57. En un circuito RC en serie, la potencia real es de 2 W y la potencia reactiva de 3.5 VAR. Determine la
+potencia aparente.
+
+“FIGURA 16”
+
+59. ¿Cuál es el factor de potencia para el circuito de la figura 15-98?
+
+“FIGURA 17 Y 18”
+
+*61. Una sola fuente de 240 V y 60 Hz alimenta dos cargas. La carga A tiene impedancia de 50 Æ y factor
+de potencia de 0.85. La carga B tiene impedancia de 72 Æ y factor de potencia de 0.95.
+(a) ¿Cuánta corriente consume cada carga?
+(b) ¿Cuál es la potencia reactiva en cada carga?
+(c) ¿Cuál es la potencia real en cada carga?
+(d) ¿Cuál es la potencia aparente en cada carga?
+(e) ¿Cuál carga tiene más caída de voltaje a lo largo de las líneas que la conectan a la fuente?
+
+“FIGURA 19”
+
+*63. ¿Qué valor de capacitor de acoplamiento se requiere en la figura 15-104 de modo que el voltaje de señal
+a la entrada del amplificador 2 sea por lo menos un 70.7% del voltaje de señal a la salida del amplificador
+1 cuando la frecuencia es de 20 Hz?
+
+“FIGURA 20 Y 21”
+
+65. Suponga que el capacitor de la figura 15-106 tiene fugas en exceso. Muestre cómo afecta esta degradación
+al voltaje de salida y al ángulo de fase, suponiendo que la resistencia de fuga es de 5 kohm y la
+frecuencia de 10 Hz.
+
+“FIGURA 22 Y 23”
+
+67. Determine el voltaje de salida para el circuito de la figura 15-107(a) para cada uno de los siguientes
+modos de falla, y compárelo con la salida correcta:
+(a)	abierto (b) abierto (c) C abierto (d) C en cortocircuito
+
+“FIGURA 24 Y 25”
+
+1. Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y
+VL?
+
+“FIGURA 26”
+
+Esretrasado 90 grados con respecto a la frecuencia de salida.
+
+3. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.
+
 
 
 ## 4) Video
