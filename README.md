@@ -1100,7 +1100,7 @@ Vsal=2.15<-64.5 V
 
 - Dentro de los circuitos RC la inductancia se determina como el recíproco de la resistencia y se lo representa por la letra (G), por lo que su expresión fasorial para la inductancia es el inverso de su resistencia.
 
-- Se logró tener en cuenta la definición clara hacerca de la inductancia para los círcuitos RC, gracias a esto se logró desarrollar los respectivos calculos del mismo.
+- Tal y como se lo esperaba se logró identificar la relación que existe entre la corriente y el voltaje de los circuitos estudiados RC, ya que se encuentran en fase en todo el circuito, y se desfasan cuando existe una interacción entre un inductor o un capacitor.
 
 - El análisis de los circuitos RC y RL son similares, puesto que, ambos utilizan el sistema de números complejos para describir los valores de los resistores y de las reactancias capacitivas e inductivas.
 
