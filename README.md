@@ -1096,6 +1096,8 @@ Vsal=2.15<-64.5 V
 
 ## 4) Video
 
+https://youtu.be/vYg2TGSFImg
+
 ## 5) Conclusiones
 
 - Dentro de los circuitos RC la inductancia se determina como el recíproco de la resistencia y se lo representa por la letra (G), por lo que su expresión fasorial para la inductancia es el inverso de su resistencia.
