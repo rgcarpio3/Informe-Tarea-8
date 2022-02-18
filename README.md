@@ -638,41 +638,75 @@ Z = 245 Ω
 
 43. Para el circuito de la figura 15-95, encuentre todas las corrientes y los voltajes en forma polar.
 
-“FIGURA 1 Y 2”
+![FIGURA 1](https://user-images.githubusercontent.com/99141342/154722092-f957f8a8-b0c8-4a56-98c9-49fcb47ac75a.PNG)
+
+![43](https://user-images.githubusercontent.com/99141342/154722111-b25aa82b-e53f-4d73-a892-6a2d8b4d6464.jpeg)
+
 
 45. Para el circuito de la figura 15-97, determine lo siguiente:
 (a) Z (b) (c) (d) I (e) u
 
+![FIGURA 3](https://user-images.githubusercontent.com/99141342/154722145-dce0b3dd-53e3-4cac-a725-78b6946952aa.PNG)
+
+![45](https://user-images.githubusercontent.com/99141342/154722198-83265f17-faa0-4bae-a1ff-d8f6af57dbc4.jpeg)
+
+
 *47. Cambie el circuito de la figura 15-98 a una forma equivalente dispuesta en serie.
 
-“FIGURA 3 Y 4”
+![FIGURA 17](https://user-images.githubusercontent.com/99141342/154722240-0198f7ec-b85f-4c5c-9765-9038518eb58c.PNG)
+
+![47](https://user-images.githubusercontent.com/99141342/154722257-d4ca109a-b390-40cd-89dc-675a9e982bd5.jpeg)
+
 
 49. Determine los voltajes en forma polar a través de cada elemento de la figura 15-100. Trace el diagrama
 fasorial de voltaje.
 
-“FIGURA 5, 6 Y 7”
+![FIGURA 5](https://user-images.githubusercontent.com/99141342/154722344-a9383a4a-238d-41bf-9614-d116e06a27eb.PNG)
+
+![49](https://user-images.githubusercontent.com/99141342/154722369-837fbacc-c7bb-4d8b-8e1a-d4a3186152b6.jpeg)
+
+![49 2](https://user-images.githubusercontent.com/99141342/154722378-582dfd42-4552-484d-9397-47ccda58bd5a.jpeg)
+
 
 51. Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. Exprese las corrientes
 en forma polar. Trace el diagrama fasorial de corriente.
 
-“FIGURA 8, 9 Y 10”
+![FIGURA 8](https://user-images.githubusercontent.com/99141342/154722449-e8830f55-eacf-489b-b5be-3c172e0b4c85.PNG)
+
+![51](https://user-images.githubusercontent.com/99141342/154722481-759a4bba-9875-4881-a30c-60e711795c5c.jpeg)
+
+![51 2](https://user-images.githubusercontent.com/99141342/154722504-df6cdea7-7f0e-455b-a334-af4f8b24b933.jpeg)
+
 
 *53. Determine el valor de C2 en la figura 15-102 cuando VA = VB.
 
-“FIGURA 11 Y 12”
+![FIGURA 11](https://user-images.githubusercontent.com/99141342/154722537-936bbb4f-8328-4fc6-a37d-f05859a6510f.PNG)
+
+![53](https://user-images.githubusercontent.com/99141342/154722589-b1750aaf-4759-44c6-b829-3df93c02edca.jpeg)
+
+
 
 *55. Encuentre la corriente a través de cada componente en la figura 15-103.
 
-“FIGURA 13, 14 Y 15”
+![FIGURA 13](https://user-images.githubusercontent.com/99141342/154722627-7571074b-1cb1-4158-bc53-f359a09eedbb.PNG)
+
+![55](https://user-images.githubusercontent.com/99141342/154722675-eacdb90d-bc88-41de-bdd8-e6e973c2509c.jpeg)
+
+![55 2](https://user-images.githubusercontent.com/99141342/154722693-39e42867-962b-4751-b461-426bec770246.jpeg)
+
 
 57. En un circuito RC en serie, la potencia real es de 2 W y la potencia reactiva de 3.5 VAR. Determine la
 potencia aparente.
 
-“FIGURA 16”
+![FIGURA 16](https://user-images.githubusercontent.com/99141342/154722734-7fe23e52-c9a2-41d7-9cf6-983fff0b7954.PNG)
+
 
 59. ¿Cuál es el factor de potencia para el circuito de la figura 15-98?
 
-“FIGURA 17 Y 18”
+![FIGURA 17](https://user-images.githubusercontent.com/99141342/154722803-1c552a86-5e10-4000-98d3-58b618682923.PNG)
+
+![59](https://user-images.githubusercontent.com/99141342/154722855-9552cc5b-cc71-4174-928f-aafa9c3e4151.jpeg)
+
 
 *61. Una sola fuente de 240 V y 60 Hz alimenta dos cargas. La carga A tiene impedancia de 50 Æ y factor
 de potencia de 0.85. La carga B tiene impedancia de 72 Æ y factor de potencia de 0.95.
@@ -682,35 +716,44 @@ de potencia de 0.85. La carga B tiene impedancia de 72 Æ y factor de potencia d
 (d) ¿Cuál es la potencia aparente en cada carga?
 (e) ¿Cuál carga tiene más caída de voltaje a lo largo de las líneas que la conectan a la fuente?
 
-“FIGURA 19”
+![61](https://user-images.githubusercontent.com/99141342/154722906-6dcb8c73-ea7f-4e61-8faa-bf0531d4f5e1.jpeg)
+
 
 *63. ¿Qué valor de capacitor de acoplamiento se requiere en la figura 15-104 de modo que el voltaje de señal
 a la entrada del amplificador 2 sea por lo menos un 70.7% del voltaje de señal a la salida del amplificador
 1 cuando la frecuencia es de 20 Hz?
 
-“FIGURA 20 Y 21”
+![FIGURA 20](https://user-images.githubusercontent.com/99141342/154722927-83e5760a-2a18-4d1e-8b24-c77d75858daa.PNG)
+
+![FIGURA 21](https://user-images.githubusercontent.com/99141342/154722943-4b999aea-1568-433e-b6b4-df9004d31f8a.PNG)
+
 
 65. Suponga que el capacitor de la figura 15-106 tiene fugas en exceso. Muestre cómo afecta esta degradación
 al voltaje de salida y al ángulo de fase, suponiendo que la resistencia de fuga es de 5 kohm y la
 frecuencia de 10 Hz.
 
-“FIGURA 22 Y 23”
+![FIGURA 22](https://user-images.githubusercontent.com/99141342/154723002-40fca623-21cb-4dd0-967d-4bce232e3023.PNG)
+
+![65](https://user-images.githubusercontent.com/99141342/154723032-58c69b85-43af-438c-af35-487b702a32da.jpeg)
+
 
 67. Determine el voltaje de salida para el circuito de la figura 15-107(a) para cada uno de los siguientes
 modos de falla, y compárelo con la salida correcta:
 (a)	abierto (b) abierto (c) C abierto (d) C en cortocircuito
 
-“FIGURA 24 Y 25”
+![FIGURA 24](https://user-images.githubusercontent.com/99141342/154723059-307262ab-8d95-48a5-b064-1b81f7007cec.PNG)
+
+![67](https://user-images.githubusercontent.com/99141342/154723087-356faaa6-2eea-4b34-9dab-842366415ba8.jpeg)
+
 
 1. Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y
 VL?
 
-“FIGURA 26”
-
-Esretrasado 90 grados con respecto a la frecuencia de salida.
+Es retrasado 90 grados con respecto a la frecuencia de salida
 
 3. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.
 
+![3 capitulo 16](https://user-images.githubusercontent.com/99141342/154723250-0b12397a-3259-495a-8469-e2dc435e81fe.jpeg)
 
 
 ## 4) Video
