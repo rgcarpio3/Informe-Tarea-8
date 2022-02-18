@@ -4,7 +4,15 @@
 
 ### 1.1) Objetivo General
 
+•	Conocer los circuitos RC y circuitos Rl por mediante el libro de Floyd de principios de circuitos eléctricos
+
 ### 1.2) Objetivos específicos
+
+•	Determinar la definición de inductancia para circuitos RC, con el fin de conocer el desarrollo de su cálculo.
+
+•	Identificar la relación que existe entre las corrientes y los voltajes de un circuito RC
+
+•	Conocer como analizar dos conjuntos de componentes en paralelo de un circuito RL
 
 ## 2) Marco Teórico
 
@@ -1089,6 +1097,13 @@ Vsal=2.15<-64.5 V
 ## 4) Video
 
 ## 5) Conclusiones
+
+- Dentro de los circuitos RC la inductancia se determina como el recíproco de la resistencia y se lo representa por la letra (G), por lo que su expresión fasorial para la inductancia es el inverso de su resistencia.
+
+- Se logró tener en cuenta la definición clara hacerca de la inductancia para los círcuitos RC, gracias a esto se logró desarrollar los respectivos calculos del mismo.
+
+- El análisis de los circuitos RC y RL son similares, puesto que, ambos utilizan el sistema de números complejos para describir los valores de los resistores y de las reactancias capacitivas e inductivas.
+
 
 ## 6) Bibliografía
 
