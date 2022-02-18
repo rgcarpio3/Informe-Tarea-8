@@ -382,6 +382,8 @@ y el ángulo de fase entre la corriente del resistor y la corriente total es
 
 ## 3) Explicación y resolución de ejercicios
 
+### CIRCUITOS RC
+
 1. ¿Cuáles son las dos características de una cantidad indicada mediante un número complejo?
 -La Magnitud y el ángulo
 3. Localice los puntos representados por cada una de las siguientes coordenadas en el plano complejo:
@@ -403,26 +405,34 @@ H= (10^2+15^2)^1/2
 H = 18.02
 
 9. Convierta cada uno de los siguientes números polares a forma rectangular:
+
 A) 1000 < -50°
 A= C*cos (x) = 1000*cos (-50°) = 642,78
 jB =jC*sen(x) = j1000*sen (-50°) = j(766,04)
+
 B) 15 < 160°
 A= C*cos (x) = 15*cos (160°) = -14,1
 jB =jC*sen(x) = j15*sen (160°) = j(5,13)
+
 C)25 < -135°
 A= C*cos (x) = 25*cos (-135°) = -17,7
 jB =jC*sen(x) = j25*sen (-135°) = j(-17,7)
+
 D)3 < 180°
 A= C*cos (x) = 3*cos (180°) =-3 
 jB =jC*sen(x) = j3*sen (180°) = j(0)
 
 11. Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 8.
+
 A) 40 -j40
 Cuarto
+
 B) 50 -j200
 Cuarto
+
 C) 35 -j20
 Cuarto
+
 D) 98 + j45
 Primero
 
@@ -437,15 +447,19 @@ C) 100 < 190
 D) 50 < 160
 
 15. Realice las siguientes sustracciones:
+
 A) (2,5 + j1.2) - (1,4 + j0,5)
 = (1,1 + j0,7)
+
 B) (-45 - j23) - (36 + j12)
 = (-81 – j35)
+
 C) (8 - j4) - 3∠25°
 A= C*cos (x) = 3*cos (25°) = 2,71
 jB =jC*sen(x) = j3*sen (25°) = j(1,26)
 = (8 - j4) - (2,71 + j1,26)
 = (5,29 - j5,26)
+
 D) 48∠135° - 33∠ -60°
 A= C*cos (x) = 48*cos (135°) = -33,94
 jB =jC*sen(x) = j48*sen (135°) = j(33,94)
@@ -455,16 +469,20 @@ jB =jC*sen(x) = j33*sen (-60°) = j(-28,57)
 =(-50,4 + j62,51)
 
 17. Realice las siguientes divisiones:
+
 A) (8∠50°) / (2.5∠39°)
 = 3.2∠11°
+
 B) (63∠ -91°) / (9∠10°)
 = 7∠ -101°
+
 C) (28∠30°) / (14 - j12)
 (14 - j12)
 C= (14^2+12^2) ^1/2 = 18,43
 X= tan^-1(-12/14) = -14,6°
 (28∠30°) / (18,43 ∠-14,6°)
 =(1,52∠70,6°)
+
 D) (40 - j30) / (16 + j8)
 C= (40^2+30^2) ^1/2 = 50
 X= tan^-1(30/40) = 36,86°
@@ -474,6 +492,7 @@ X= tan^-1(8/16) = 26,56°
 = (2,79∠ -63,5°)
 
 19. Se aplica un voltaje sinusoidal a 8 kHz a un circuito RC en serie. ¿Cuál es la frecuencia del voltaje a través del resistor? ¿A través del capacitor?
+
 La frecuencia del voltaje a través del resistor es la misma 8KHz
 La frecuencia del voltaje a través del capacitor es la misma 8KHz
 
@@ -486,6 +505,7 @@ A)	270 Ω - j100 Ω
 C= (270^2+100^2) ^1/2 = 287,92
 X= tan^-1(100/270) = 20,23°
 288∠ -20.3° 
+
 B)	680 Ω - j1000 Ω
 C= (680^2+1000^2) ^1/2 = 1209,29
 X= tan^-1(1000/680) = 55,78°
@@ -504,19 +524,25 @@ Basándome en:
 
 
 Me queda:
+
 A) 100Hz
 56K Ω - J723 k Ω
+
 B) 500Hz
 56K Ω - J145 k Ω
+
 C) 1KHz
 56K Ω - J72.3 k Ω
+
 D) 2,5 KHz
 56K Ω - J28.9 K Ω
 
 25. Determine los valores de R y XC en un circuito RC en serie para los siguientes valores de impedancia total:
+
 A)	Z = 33 Ω - j50 Ω
 R= 33
 Xc= 50
+
 B)	Z = 300∠ -25° Ω
 C=300
 A=C cos(x)
@@ -527,6 +553,7 @@ B=300sen(-25)
 B=-126,78
 R= 272Ω
 Xc= 127 Ω
+
 C)	Z = 1.8∠ -67.2° K Ω
 C= 1,8
 A= 1,8cos(-67200)
@@ -536,6 +563,7 @@ B=1,8sen(-67200)
 B=-1.66 k
 R= 698 Ω
 Xc= 1.66 k Ω
+
 D)	Z = 789∠ -45° Ω
 R= 558 Ω
 Xc= 558 Ω
@@ -581,10 +609,13 @@ C)
 
 A) z
 = 97.3∠ -54.9° Ω
+
 B) Itot
 = 103∠54.9° mA
+
 C) VR
 = 5.76∠54.9° V
+
 D) Vc
 = 8.18∠ -35.1° V
 
@@ -644,6 +675,7 @@ Z = 245 Ω
 
 
 45. Para el circuito de la figura 15-97, determine lo siguiente:
+
 (a) Z (b) (c) (d) I (e) u
 
 ![FIGURA 3](https://user-images.githubusercontent.com/99141342/154722145-dce0b3dd-53e3-4cac-a725-78b6946952aa.PNG)
@@ -710,10 +742,15 @@ potencia aparente.
 
 *61. Una sola fuente de 240 V y 60 Hz alimenta dos cargas. La carga A tiene impedancia de 50 Æ y factor
 de potencia de 0.85. La carga B tiene impedancia de 72 Æ y factor de potencia de 0.95.
+
 (a) ¿Cuánta corriente consume cada carga?
+
 (b) ¿Cuál es la potencia reactiva en cada carga?
+
 (c) ¿Cuál es la potencia real en cada carga?
+
 (d) ¿Cuál es la potencia aparente en cada carga?
+
 (e) ¿Cuál carga tiene más caída de voltaje a lo largo de las líneas que la conectan a la fuente?
 
 ![61](https://user-images.githubusercontent.com/99141342/154722906-6dcb8c73-ea7f-4e61-8faa-bf0531d4f5e1.jpeg)
@@ -746,6 +783,7 @@ modos de falla, y compárelo con la salida correcta:
 ![67](https://user-images.githubusercontent.com/99141342/154723087-356faaa6-2eea-4b34-9dab-842366415ba8.jpeg)
 
 
+### CIRCUITOS RL
 1. Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y
 VL?
 
