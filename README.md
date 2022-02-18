@@ -793,6 +793,298 @@ Es retrasado 90 grados con respecto a la frecuencia de salida
 
 ![3 capitulo 16](https://user-images.githubusercontent.com/99141342/154723250-0b12397a-3259-495a-8469-e2dc435e81fe.jpeg)
 
+5. En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:
+XL = 2pifL
+
+(a)
+
+f = 100 Hz
+XL = 2pi(100)(0.02)
+XL = 12.6 ohm
+
+Z = √(R)^2 + (XL)^2 < tan^-1 (XL/R)
+Z = √(12)^2 + (12.57)^2 < tan^-1 (12.57/12)
+Z = 17.4 < 46.3° ohm
+
+(b)
+
+f = 500 Hz
+XL = 2pi(500)(0.02)
+XL = 62.8 ohm
+
+Z = √(R)^2 + (XL)^2 < tan^-1 (XL/R)
+Z = √(12)^2 + (62.8)^2 < tan^-1 (62.8/12)
+Z = 64 < 79.2° ohm
+
+(c)
+
+f = 1000 Hz
+XL = 2pi(1000)(0.02)
+XL = 125.7 ohm
+
+Z = √(R)^2 + (XL)^2 < tan^-1 (XL/R)
+Z = √(12)^2 + (125.7)^2 < tan^-1 (125.7/12)
+Z = 126.3 < 84.6° ohm
+
+(d)
+
+f = 2000 Hz
+XL = 2pi(2000)(0.02)
+XL = 251.3 ohm
+
+Z = √(R)^2 + (XL)^2 < tan^-1 (XL/R)
+Z = √(12)^2 + (251.3)^2 < tan^-1 (251.3/12)
+Z = 252 < 87.3° ohm7. Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.
+
+7. Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.
+1/Leq = 1/5 + 1/8.2
+Leq = 3.1 mH
+
+1/Req = 1/1000 + 1/910
+Req = 476.4 ohm
+RT = 476.64 +330
+RT = 806 ohm
+
+1000 uH = 1mH
+
+LT = 3.1 + 1
+LT = 4.1 mH
+
+
+
+
+
+9. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57.
+
+Ieq1=5/330+1/1/910+1/1000=6.20mA
+Veq=0,0062*1/1/910+1/1000=2.95V
+Vl3=2.95V
+
+11. Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.
+
+Rl=56+10
+Rl=66
+L=50+100
+L=150
+F=100=0.1kHz
+Xl=2pi*0.1*150
+Xl=94.25
+Z=sqrt(66^2+94.25^2)<tan^-1(94.25/66)
+Z=115<55.03
+I=43.5<-55.03
+b) F=20kHz
+Xl=2pi*20*3.08
+Xl=387.04
+Z=sqrt(560^2+387.04^2)<tan^-1(0.69)
+Z=680.73<34.61
+
+13. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye u?
+
+F=60=0.06
+Xl=2pi*0.06*100
+Xl=37.7
+O=tan^-1(37.7/47)
+O=38.7
+F=60=0.06
+Xl=2pi*0.06*200
+Xl=75.4
+O=tan^-1(74.4/47)
+O=58.1
+
+15. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:
+
+(a) 60 Hz 
+Xl=2pi*60*0.1
+Xl=37.69
+Z=154.66<14.10
+Vr=4.85<-14.10
+Vl1.21<75.9
+
+(b) 200 Hz 
+Xl=2pi*200*0.1
+Xl=125.66
+Z=195.68<39.95
+Vr=3.83<-39.95
+Vl=3.20<50.05
+
+(c) 500 Hz 
+Xl=2pi*500*0.1
+Xl=314.16
+Z=348.13<64.48
+Vr=2.1<-64.48
+Vl=4.39<25.52
+
+(d) 1 kHz
+Xl=2pi*1000*0.1
+Xl=628.31
+Z=645.97<76.57
+Vr=1.16<76.57
+Vl=4.84<13.43
+
+
+17. Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:
+
+(a) 1 Hz 
+Xl=2pi*0.001*10
+Xl=0.063
+O=-tan^-1(0.063/39)
+O=-0.0923
+
+(b) 100 Hz
+ Xl=2pi*0.1*10
+Xl=6.283
+O=-tan^-1(6.283/39)
+O=-9.15
+
+(c) 1 kHz 
+Xl=2pi*1*10
+Xl=62.83
+O=-tan^-1(62.83/39)
+O=-58.2
+
+(d) 10 kHz
+Xl=2pi*10*10
+Xl=628.32
+O=-tan^-1(628.32/39)
+O=-86.4
+
+
+19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?
+
+Xl=2pi*2*0.8
+Xl=10.05
+L=0.8
+Z=7.75<49.9
+21. ¿A qué frecuencia XL es igual a R en la figura 16-63?
+Xl=R
+2pi*FF*L=R
+F=12/2pi*0.8=2.39KHz
+
+23. Determine las siguientes cantidades en la figura 16-65:
+
+(a) Z 
+Xl=2pi*2*25
+Xl=314.16
+Z=273.99<60.7
+
+(b)L_r 
+Ir=0.0893<0 A
+
+(c)I_l 
+Ir=159<-90 Ma
+
+(d)L_Tot 
+It=182<-60.7
+
+(e)O
+O=tan^-1(1.78)
+O=60.7
+
+25. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.
+
+RL=11.5
+RL=806.44
+L=3.11+1
+L=4.11mH
+
+27. Determine los voltajes en forma polar a través de cada uno de los elementos de la figura 16-68. Trace el diagrama fasorial de voltaje.
+
+R=15.8+33=48.8
+L=25mH
+Xl=2pi*400*0.025=62.83
+Z=58.81<52.17
+Vr=22.43<-52.17
+Vl=6.44<37.7
+
+29. Determine la corriente en cada rama y la corriente total en la figura 16-68. Expréselas en forma polar. Trace el diagrama fasorial de la corriente.
+
+IR1=IT=389<-389
+IR2=330<9.61mA
+IR3=102<-53.3
+IL1=IL2=51.3<-52.7
+
+31. Para el circuito de la figura 16-70, determine lo siguiente:
+
+(a) Itot 
+588<-50.5
+
+(b)Vl1  
+22<16.1
+
+(c)Vab
+8.63<-135
+
+33. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la salida en el circuito de la figura 16-71.
+
+Xl=2pi*0.06*50
+Xl=18.85
+R=3.27+5.6(3.3)
+R=2.41K
+Xl-2pi*10*50=3.14K
+O=tan^-1(13.03)
+O=52.49
+
+35. Diseñe un circuito conmutador inductivo ideal que suministre un voltaje momentáneo de 2.5 kV con una fuente de 12 V de cd cuando un interruptor es cambiado instantáneamente de una posición a otra. El consumo de corriente de la fuente no debe exceder de 1 A.
+
+![axel_ejer35](https://user-images.githubusercontent.com/99141342/154725722-869bfe10-5927-4228-b813-eada908f39b8.png)
+
+37. Determine la potencia verdadera y la potencia reactiva en la figura 16-58.
+
+P=3VF*IF*cos(10)
+P=3*10*0.2*0.98
+P=5.88=Potencia verdadera
+P=3*10*sen(10)
+P=5,20=Potencia reactiva
+
+39. Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia.
+
+P=V*Icos(10)
+P=10*16.3cos(10)
+P=160.5
+
+Q=V*Isen(10)
+Q=10*16.3sen(10)
+Q=28.30
+FP=160.5+28.30
+FP=188.80
+
+![axel_ejer39](https://user-images.githubusercontent.com/99141342/154725782-ae54335d-d670-40a9-8a2c-fc96d8935ec1.png)
+
+41. Trace la curva de respuesta para el circuito de la figura 16-61. Muestre el voltaje de salida contra la frecuencia en incrementos de 1 kHz desde 0 Hz hasta 5 kHz.
+
+![axel_ejer41](https://user-images.githubusercontent.com/99141342/154725869-fe4036eb-a73c-479b-9162-2be63b9612f5.png)
+
+43. Trace el diagrama fasorial de voltaje para cada circuito de las figuras 16-61 y 16-62 a una frecuencia de 8 kHz.
+
+![axel_ejer43_1](https://user-images.githubusercontent.com/99141342/154725924-a0eabbf4-7ca4-47f0-9037-ba0d0509e341.png)
+
+![axel_ejer43_2](https://user-images.githubusercontent.com/99141342/154726033-9203a478-721b-43ba-81a8-3ca8fa65d36b.png)
+
+
+45. Determine el voltaje de salida en la figura 16-73 para cada uno de los siguientes modos de falla:
+
+(a) L1 abierto 
+
+(b) L2 abierto 
+
+Puesto que la inductancia se encuentra abierta el flujo de voltaje será de o v
+
+(c) R1 abierto 
+
+R=156
+F=1000KHz
+Xl=2pi*1000*0.012=75.4
+Vsal=(56/sqrt(156^2+75.4^2)) *5<-tan^-1(75.4/156)
+Vsal=1.615<-25.79
+
+(d) un cortocircuito a través de R2
+
+R=35.9
+L=0.012
+Xl=75.4
+Vsal=(35.9/sqrt(35.9^2+75.4^2))*5<-tan^-1(75.4/35.9)
+Vsal=2.15<-64.5 V
+
 
 ## 4) Video
 
